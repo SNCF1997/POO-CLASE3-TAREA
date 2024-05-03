@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|c:\\sergio\\cursos\\c#\\tareas - curso- cda\\tarea clase3\\ejerciciosclase3\\clase3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|solutionrelative:clase3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|c:\\sergio\\cursos\\c#\\tareas - curso- cda\\tarea clase3\\ejerciciosclase3\\clase3\\ejercicio 2\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|solutionrelative:clase3\\ejercicio 2\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|c:\\sergio\\cursos\\c#\\tareas - curso- cda\\tarea clase3\\ejerciciosclase3\\clase3\\ejercicio 2\\ibiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|solutionrelative:clase3\\ejercicio 2\\ibiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|c:\\sergio\\cursos\\c#\\tareas - curso- cda\\tarea clase3\\ejerciciosclase3\\clase3\\ejercicio 2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB24EE2F-419B-4539-BB6C-9123C986E916}|Clase3\\Clase3.csproj|solutionrelative:clase3\\ejercicio 2\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Ejercicio 2\\Libro.cs",
+              "RelativeDocumentMoniker": "Clase3\\Ejercicio 2\\Libro.cs",
+              "ToolTip": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Ejercicio 2\\Libro.cs",
+              "RelativeToolTip": "Clase3\\Ejercicio 2\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T02:37:46.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBiblioteca.cs",
+              "DocumentMoniker": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Ejercicio 2\\IBiblioteca.cs",
+              "RelativeDocumentMoniker": "Clase3\\Ejercicio 2\\IBiblioteca.cs",
+              "ToolTip": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Ejercicio 2\\IBiblioteca.cs",
+              "RelativeToolTip": "Clase3\\Ejercicio 2\\IBiblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:24:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Ejercicio 2\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Clase3\\Ejercicio 2\\Biblioteca.cs",
+              "ToolTip": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Ejercicio 2\\Biblioteca.cs",
+              "RelativeToolTip": "Clase3\\Ejercicio 2\\Biblioteca.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA6wCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:12:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Program.cs",
+              "RelativeDocumentMoniker": "Clase3\\Program.cs",
+              "ToolTip": "C:\\Sergio\\Cursos\\C#\\Tareas - Curso- cda\\Tarea Clase3\\EjerciciosClase3\\Clase3\\Program.cs",
+              "RelativeToolTip": "Clase3\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAhwC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:50:37.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

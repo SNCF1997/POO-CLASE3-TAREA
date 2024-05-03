@@ -1,0 +1,15 @@
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfoInputs.cache
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfo.cs
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.csproj.CoreCompileInputs.cache
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.sourcelink.json
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\bin\Debug\net6.0\Clase3.exe
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\bin\Debug\net6.0\Clase3.deps.json
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\bin\Debug\net6.0\Clase3.runtimeconfig.json
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\bin\Debug\net6.0\Clase3.dll
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\bin\Debug\net6.0\Clase3.pdb
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.dll
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\refint\Clase3.dll
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.pdb
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\Clase3.genruntimeconfig.cache
+C:\Sergio\Cursos\C#\Tareas - Curso- cda\Tarea Clase3\EjerciciosClase3\Clase3\obj\Debug\net6.0\ref\Clase3.dll
